@@ -1,0 +1,14 @@
+.c1{
+    display: inline-block;
+
+}
+.r{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.b{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
